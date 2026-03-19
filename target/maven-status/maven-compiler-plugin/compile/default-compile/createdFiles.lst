@@ -1,0 +1,4 @@
+com\mycompany\gerenciador\ordens\data\GConnection.class
+com\mycompany\gerenciador\ordens\dao\UserDao.class
+com\mycompany\gerenciador\ordens\model\User.class
+com\mycompany\gerenciador\ordens\GerenciadorOrdens.class
